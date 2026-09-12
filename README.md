@@ -2,6 +2,16 @@
 
 ## Instalação no Intel
 
+**[Baixar para iMac Intel (.dmg)](https://github.com/x723235/piscou-copiou/releases/download/v0.1.0/Piscou-Copiou-Intel.dmg)**
+
+Abra o DMG e arraste o app para Applications. Ou, com Homebrew instalado:
+
+```sh
+brew install --cask x723235/tap/piscou-copiou
+```
+
+Tap próprio: https://github.com/x723235/homebrew-tap
+
 Baixe `Piscou-Copiou-Intel-macOS13.zip` na seção Releases, extraia e copie
 `PISCOU, COPIOU.app` para Aplicativos. Requer macOS 13 Ventura ou superior.
 Build local com assinatura ad hoc, sem notarização Apple. O Gatekeeper pode
